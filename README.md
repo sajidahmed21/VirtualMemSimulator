@@ -2,7 +2,7 @@
 <br>
 ## Algorithm: Random
 
-### Program: [simpleloop]()
+### Program: [simpleloop](traceprogs/tr-simpleloop.ref)
 
 Memory Size | Hit Rate | Hit Count | Miss Count | Overall Evictions | Clean Evictions | Dirty Evictions
 ----------- | -------- | --------- | ---------- | ----------------- | --------------- | ---------------
@@ -12,7 +12,7 @@ Memory Size | Hit Rate | Hit Count | Miss Count | Overall Evictions | Clean Evic
 200 | 74.3976 | 7904 | 2720 | 2520 | 133 | 2387
 
 
-### Program: [matmul]()
+### Program: [matmul](traceprogs/tr-matmul.ref)
 
 Memory Size | Hit Rate | Hit Count | Miss Count | Overall Evictions | Clean Evictions | Dirty Evictions
 ----------- | -------- | --------- | ---------- | ----------------- | --------------- | ---------------
@@ -21,7 +21,7 @@ Memory Size | Hit Rate | Hit Count | Miss Count | Overall Evictions | Clean Evic
 150 | 96.6547 | 2791566 | 96618 | 96468 | 94259 | 2209
 200 | 98.0337 | 2831394 | 56790 | 56590 | 55078 | 1512
 
-### Program: [blocked]()
+### Program: [blocked](traceprogs/tr-blocked.ref)
 
 Memory Size | Hit Rate | Hit Count | Miss Count | Overall Evictions | Clean Evictions | Dirty Evictions
 ----------- | -------- | --------- | ---------- | ----------------- | --------------- | ---------------
@@ -41,7 +41,7 @@ Memory Size | Hit Rate | Hit Count | Miss Count | Overall Evictions | Clean Evic
 <br>
 ## Algorithm: FIFO
 
-### Program: [simpleloop]()
+### Program: [simpleloop](traceprogs/tr-simpleloop.ref)
 
 Memory Size | Hit Rate | Hit Count | Miss Count | Overall Evictions | Clean Evictions | Dirty Evictions
 ----------- | -------- | --------- | ---------- | ----------------- | --------------- | ---------------
@@ -51,7 +51,7 @@ Memory Size | Hit Rate | Hit Count | Miss Count | Overall Evictions | Clean Evic
 200 | 74.5210 | 7935 | 2713 | 2513 | 12 | 2501
 
 
-### Program: [matmul]()
+### Program: [matmul](traceprogs/tr-matmul.ref)
 
 Memory Size | Hit Rate | Hit Count | Miss Count | Overall Evictions | Clean Evictions | Dirty Evictions
 ----------- | -------- | --------- | ---------- | ----------------- | --------------- | ---------------
@@ -60,7 +60,7 @@ Memory Size | Hit Rate | Hit Count | Miss Count | Overall Evictions | Clean Evic
 150 | 98.8086 | 2853775 | 34409 | 34259 | 32943 | 1316
 200 | 98.8267 | 2854296 | 33888 | 33688 | 32433 | 1255
 
-### Program: [blocked]()
+### Program: [blocked](traceprogs/tr-blocked.ref)
 
 Memory Size | Hit Rate | Hit Count | Miss Count | Overall Evictions | Clean Evictions | Dirty Evictions
 ----------- | -------- | --------- | ---------- | ----------------- | --------------- | ---------------
@@ -81,7 +81,7 @@ Memory Size | Hit Rate | Hit Count | Miss Count | Overall Evictions | Clean Evic
 <br>
 ## Algorithm: LRU
 
-### Program: [simpleloop]()
+### Program: [simpleloop](traceprogs/tr-simpleloop.ref)
 
 Memory Size | Hit Rate | Hit Count | Miss Count | Overall Evictions | Clean Evictions | Dirty Evictions
 ----------- | -------- | --------- | ---------- | ----------------- | --------------- | ---------------
@@ -91,7 +91,7 @@ Memory Size | Hit Rate | Hit Count | Miss Count | Overall Evictions | Clean Evic
 200 | 74.7652 | 7961 | 2687 | 2487 | 0 | 2487
 
 
-### Program: [matmul]()
+### Program: [matmul](traceprogs/tr-matmul.ref)
 
 Memory Size | Hit Rate | Hit Count | Miss Count | Overall Evictions | Clean Evictions | Dirty Evictions
 ----------- | -------- | --------- | ---------- | ----------------- | --------------- | ---------------
@@ -100,7 +100,7 @@ Memory Size | Hit Rate | Hit Count | Miss Count | Overall Evictions | Clean Evic
 150 | 98.8614 | 2855298 | 32886 | 32736 | 31656 | 1080
 200 | 98.8618 | 2855310 | 32874 | 32674 | 31594 | 1080
 
-### Program: [blocked]()
+### Program: [blocked](traceprogs/tr-blocked.ref)
 
 Memory Size | Hit Rate | Hit Count | Miss Count | Overall Evictions | Clean Evictions | Dirty Evictions
 ----------- | -------- | --------- | ---------- | ----------------- | --------------- | ---------------
@@ -121,7 +121,7 @@ Memory Size | Hit Rate | Hit Count | Miss Count | Overall Evictions | Clean Evic
 <br>
 ## Algorithm: CLOCK
 
-### Program: [simpleloop]()
+### Program: [simpleloop](traceprogs/tr-simpleloop.ref)
 
 Memory Size | Hit Rate | Hit Count | Miss Count | Overall Evictions | Clean Evictions | Dirty Evictions
 ----------- | -------- | --------- | ---------- | ----------------- | --------------- | ---------------
@@ -131,7 +131,7 @@ Memory Size | Hit Rate | Hit Count | Miss Count | Overall Evictions | Clean Evic
 200 | 74.7558 | 7960 | 2688 | 2488 | 0 | 2488
 
 
-### Program: [matmul]()
+### Program: [matmul](traceprogs/tr-matmul.ref)
 
 Memory Size | Hit Rate | Hit Count | Miss Count | Overall Evictions | Clean Evictions | Dirty Evictions
 ----------- | -------- | --------- | ---------- | ----------------- | --------------- | ---------------
@@ -140,7 +140,7 @@ Memory Size | Hit Rate | Hit Count | Miss Count | Overall Evictions | Clean Evic
 150 | 98.6044 | 2847877 | 40307 | 40157 | 39076 | 1081
 200 | 98.8613 | 2855296 | 32888 | 32688 | 31608 | 1080
 
-### Program: [blocked]()
+### Program: [blocked](traceprogs/tr-blocked.ref)
 
 Memory Size | Hit Rate | Hit Count | Miss Count | Overall Evictions | Clean Evictions | Dirty Evictions
 ----------- | -------- | --------- | ---------- | ----------------- | --------------- | ---------------
@@ -161,7 +161,7 @@ Memory Size | Hit Rate | Hit Count | Miss Count | Overall Evictions | Clean Evic
 <br>
 ## Algorithm: OPT
 
-### Program: [simpleloop]()
+### Program: [simpleloop](traceprogs/tr-simpleloop.ref)
 
 Memory Size | Hit Rate | Hit Count | Miss Count | Overall Evictions | Clean Evictions | Dirty Evictions
 ----------- | -------- | --------- | ---------- | ----------------- | --------------- | ---------------
@@ -171,7 +171,7 @@ Memory Size | Hit Rate | Hit Count | Miss Count | Overall Evictions | Clean Evic
 200 | 75.2066 | 8008 | 2640 | 2440 | 0 | 2440
 
 
-### Program: [matmul]()
+### Program: [matmul](traceprogs/tr-matmul.ref)
 
 Memory Size | Hit Rate | Hit Count | Miss Count | Overall Evictions | Clean Evictions | Dirty Evictions
 ----------- | -------- | --------- | ---------- | ----------------- | --------------- | ---------------
@@ -180,7 +180,7 @@ Memory Size | Hit Rate | Hit Count | Miss Count | Overall Evictions | Clean Evic
 150 | 99.0785 | 2861570 | 26614 | 26464 | 25379 | 1085
 200 | 99.3330 | 2868920 | 19264 | 19064 | 17979 | 1085
 
-### Program: [blocked]()
+### Program: [blocked](traceprogs/tr-blocked.ref)
 
 Memory Size | Hit Rate | Hit Count | Miss Count | Overall Evictions | Clean Evictions | Dirty Evictions
 ----------- | -------- | --------- | ---------- | ----------------- | --------------- | ---------------
